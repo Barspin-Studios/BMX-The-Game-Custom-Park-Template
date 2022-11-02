@@ -18,8 +18,9 @@ The project is ready to export a custom park in Unity and then test it on BMX Th
   - Download the GitHub and open it in Unity
   - Once in the Unity project, there's a scene called "Custom Park" which is the scene to edit
   - Import any asset that you want and build up your park and the environment
+  - Set up the colliders for the objects
   - Import the textures and set up the materials
-  - Set up the rideable object in the scene to the layer "DynamicProps"
+  - Set up any rideable object in the scene to the layer "DynamicProps"
   - Move the object "CustomSessionMarkSpawn" to the spawn desired point
   - Set up the light, skybox and reflection probes
   - Set up the color grading, contained in the object >Light>Color
