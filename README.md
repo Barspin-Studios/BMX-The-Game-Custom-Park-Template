@@ -11,8 +11,8 @@ You can use your favorite 3D app (like Blender, 3dsmax, Sketchup...) to design y
 The project is ready to export a custom park in Unity and then test it on BMX The Game 0.9.0.7 or later.
 
 ## You will need
-  - [BMX The Game 0.9.0.7](https://store.steampowered.com/app/987150/BMX_The_Game/) (check the Beta branch on Steam in order to unlock it)
-  - [Unity 2019.4.24f1](https://unity3d.com/get-unity/download?thank-you=update&download_nid=64645&os=Win)
+  - [BMX The Game 0.9.0.7](https://store.steampowered.com/app/987150/BMX_The_Game/) or later (check the Beta branch on Steam in order to unlock it)
+  - [Unity 2019.4.24f1](https://unity3d.com/get-unity/download?thank-you=update&download_nid=64645&os=Win) 
 
 ## How to use
   - Download the GitHub and open it in Unity
@@ -39,6 +39,7 @@ The game it just can load just one park from the folder, so you have to manage t
 We would like to improve this feature. Here's a list of things that we are working on:
   - Managing more than one custom park inside the game
   - Cloud storage of the parks to simplify the sharing
+  - Hot load of the map
 
 ## License
 Our intention is that you can use this project as a starting point for your own custom parks. For the legal words, see
